@@ -2,6 +2,8 @@
 
 The documentation for the programming language **Prose**. It uses *mdBook* to generate the pages from Markdown files.
 
+You may view the website [here](https://asyzruffz.github.io/prose-lang/).
+
 ### [Summary](src/SUMMARY.md)
 
 ## Contribution
