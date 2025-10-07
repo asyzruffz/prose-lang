@@ -7,13 +7,20 @@
 - [Installation](./installation.md)
 - [Hello, World!]()
 
-# Guides
+# Features
 
 - [Basic Concepts]()
+   - [Keywords](features/keywords.md)
+   - [Primitives]()
+   - [So]()
+   - [Comments]()
+   - [Verbs](features/verbs.md)
+   - [Nouns](features/nouns.md)
+   - [Adjectives]()
 
-# Documentation
+# Documentations
 
-- [API]()
+- [Standard API]()
    - [print]()
 
 ---
