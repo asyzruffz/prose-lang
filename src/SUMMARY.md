@@ -4,8 +4,8 @@
 
 # Getting Started
 
-- [Installation](./installation.md)
-- [Hello, World!]()
+- [Installation](guides/installation.md)
+- [Hello, World!](guides/hello-world.md)
 
 # Features
 
